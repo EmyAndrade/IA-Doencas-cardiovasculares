@@ -1,0 +1,23 @@
+O que é Aprendizado de Máquina?;Ciência de ensinar computadores a aprender a partir de dados, identificar padrões e melhorar com a experiência, sem programação explícita.
+Qual a diferença entre a abordagem tradicional e a abordagem com ML?;Tradicional: programador escreve regras explícitas. ML: computador aprende as regras sozinho a partir de dados.
+Quais são os 3 paradigmas do Aprendizado de Máquina?;Supervisionado, Não Supervisionado, Por Reforço.
+Característica principal do Aprendizado Supervisionado;Aprende com dados rotulados (com "gabarito").
+Exemplo de aplicação de Aprendizado Supervisionado;Aprovar ou negar um pedido de empréstimo; Previsão de Churn; Detecção de Fraude.
+Característica principal do Aprendizado Não Supervisionado;Não possui "gabarito"; busca encontrar estruturas, padrões e anomalias ocultas nos dados.
+Exemplo de aplicação de Aprendizado Não Supervisionado;Segmentação de clientes para campanhas de marketing.
+Característica principal do Aprendizado por Reforço;O algoritmo aprende tomando ações em um ambiente para maximizar uma recompensa, baseado em tentativa e erro.
+Exemplo de aplicação de Aprendizado por Reforço;Otimizar recomendações de produtos em um site de e-commerce.
+Quais são as duas tarefas principais do Aprendizado Supervisionado?;Classificação e Regressão.
+Objetivo da Classificação no Aprendizado Supervisionado;Prever uma categoria ou classe (resposta discreta).
+Pergunta-chave da Classificação;"Isto é A ou B (ou C...)?"
+Exemplos de problemas de Classificação;Filtro de e-mail (spam/não spam), Detecção de fraude (fraudulenta/legítima), Previsão de Churn (vai cancelar/não vai cancelar).
+Métricas de avaliação comuns para Classificação;Acurácia, Precisão.
+Objetivo da Regressão no Aprendizado Supervisionado;Prever um valor numérico contínuo.
+Pergunta-chave da Regressão;"Quanto?" ou "Qual o valor?"
+Exemplos de problemas de Regressão;Previsão do tempo (quantidade de chuva), Preço de imóveis, Previsão de demanda de produtos.
+Métrica de avaliação comum para Regressão;MAE (Erro Médio Absoluto).
+Qual tipo de saída a Classificação prevê?;Discreta (categorias).
+Qual tipo de saída a Regressão prevê?;Contínua (números).
+Analogia para Aprendizado Supervisionado;Um professor fornecendo um "gabarito" ao aluno.
+Analogia para Aprendizado Não Supervisionado;Organizar uma caixa de ferramentas misturadas sem saber os nomes das ferramentas.
+Analogia para Aprendizado por Reforço;Treinar um cachorro com petiscos (recompensas) e correções (penalidades).
